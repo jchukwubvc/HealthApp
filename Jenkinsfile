@@ -4,7 +4,7 @@ pipeline {
     triggers {
         // Run the pipeline only when there's a push or merge to the main branch
         githubPush()
-        githubPush(branch: 'main')
+        githubPush(branch: 'master')
     }
 
     stages {
