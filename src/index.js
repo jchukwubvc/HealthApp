@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './landingviews/index.css';
-import "frontofficeviews/assets/plugins/nucleo/css/nucleo.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
-import "frontofficeviews/assets/scss/argon-dashboard-react.scss";
 import reportWebVitals from './reportWebVitals';
 import App from "./App";
 
